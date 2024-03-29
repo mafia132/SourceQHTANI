@@ -33,7 +33,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"{played} {bar} {dur}",
-                url=f"https://t.me/III3FF/852"
+                url=f"https://t.me/ghtanisaeed"
             )
         ],
         [
@@ -54,7 +54,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=_["S_B_9"],
-                url=f"https://t.me/II3FF",
+                url=f"https://t.me/ghtanisaeed",
             )
        ],
     ]
@@ -67,7 +67,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"{played} {bar} {dur}",
-                url=f"https://t.me/III3FF/852"
+                url=f"https://t.me/ghtanisaeed"
             )
         ],
         [
@@ -263,7 +263,7 @@ def panel_markup_1(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_9"],
-                url=f"https://t.me/II3FF",
+                url=f"https://t.me/ghtanisaeed",
             ),
         ],
     ]
@@ -307,7 +307,7 @@ def panel_markup_2(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=_["S_B_9"],
-                url=f"https://t.me/II3FF",
+                url=f"https://t.me/ghtanisaeed",
             ),
         ],
     ]
